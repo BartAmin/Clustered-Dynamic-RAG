@@ -1,0 +1,10 @@
+datasets
+openai
+sentence-transformers
+scipy
+keybert
+scikit-learn
+numpy
+pandas
+python-dotenv
+pyyaml

@@ -1,0 +1,175 @@
+{
+  "cluster_15": [
+    "occupation  \npractical control of land or premises  \naccess to premises  \njoint possession  \nreasonably practicable measures",
+    "non-employees  \ncontrol over subcontractors  \nemployee vs independent contractor  \nprotected action  \ndominant reason for adverse conduct",
+    "['discrimination offence', 'accused as an employer', 'protected conduct', 'took action against the complainant', 'duty to ensure workplace health and safety']"
+  ],
+  "cluster_20": [
+    "Kidnapping (common law)  \nAbduction for a sexual purpose  \nDetention for a sexual purpose  \nChild stealing (Crimes Act 1958 s 63)  \nUnlawful deprivation of liberty",
+    "appropriation of property  \nintention to permanently deprive  \ndishonesty (legal right)  \nproperty belonging to another  \narmed robbery (Crimes Act 1958 s 75A)",
+    "['offensive weapon (Crimes Act 1958 s 77(1A))', 'imitation firearm (Crimes Act 1958 s 77(1A))', 'explosive (Crimes Act 1958 s 77(1A))', 'imitation explosive', 'armed (with him) for purpose of robbery/home invasion']",
+    "carjacking (Crimes Act 1958 s 79)  \naggravated carjacking (Crimes Act 1958 s 79A)  \ntheft of a vehicle  \nused force / put in fear / sought to put in fear  \nin the course of (carjacking) injury",
+    "recent possession inference  \nunexplained possession of recently stolen property  \nabsence of reasonable explanation  \nobtained property by deception  \nfalse representation by words or conduct",
+    "obtaining a financial advantage by deception  \nCrimes Act 1958 s 82  \ndeception  \ndishonesty (legal right belief)  \nevading debts",
+    "Firearm (Firearms Act 1996 s 3)  \nProhibited person possessing, carrying or using a firearm  \nPossession (custody or control / access)  \nActual physical possession (Firearms Act 1996 s 3(1))  \nReasonably suspected of being proceeds of crime",
+    "Deeming possession (Firearms Act 1996 s 145)  \nPractical control of premises  \nVehicle in charge (Firearms Act 1996 s 145(1)(b))  \nLawfully authorised person (exception to deemed possession)  \nReasonable grounds belief (s 145(2) exceptions)"
+  ],
+  "cluster_1": [
+    "confessions  \nidentification evidence  \nDNA evidence  \nbeyond reasonable doubt  \nchild witness credibility",
+    "good character evidence  \nbad character evidence  \ncredibility of evidence  \nlikelihood of committing the offence  \ns 32 unreliability warning",
+    "recognition evidence  \nphoto board identification  \ndisplacement effect  \nnegative identification evidence  \nJury Directions Act 2015 s 36",
+    "opinion evidence  \nexpert witnesses  \nlikelihood ratio  \nprosecutor\u2019s fallacy  \nfingerprint evidence",
+    "handwriting evidence  \nexpert witness  \nnon-expert witness  \njury comparison  \ncircumstantial evidence",
+    "tendency evidence  \nEvidence Act 2008 s 101  \nJury Directions Act 2015 s 27  \ncoincidence evidence  \nsexual interest evidence",
+    "hearsay evidence unreliability warning  \nprior inconsistent statement  \nneed for caution  \ncriminally concerned witness warning  \nsignificant matters may cause unreliability",
+    "prison informer warning  \nEvidence Act 2008 s 164(4)  \nJury Directions Act 2015 s 31(d)  \nresidual duty to warn  \nsubstantial and compelling reasons"
+  ],
+  "cluster_3": [
+    "sexual offences  \nconsent  \nchild under 16  \nSex Work Act 1994  \nCrimes Act 1958",
+    "sexual penetration of a child under 16  \nconsent in issue  \nreasonable belief about age 16 or older  \ncare, supervision or authority  \nbalance of probabilities defense",
+    "sexual penetration of a 16- or 17-year-old child  \nreasonable belief in age (aged 18 or more)  \nnot married to complainant  \ncare, supervision or authority  \nlack of consent and awareness",
+    "indecent circumstances  \nindecent act with a child under 16  \ntouching contrary to community standards  \nnot freely agreeing to take part  \nwilfully committed or was party to the act",
+    "sexual assault of a child aged 16 or 17  \nintentional touching  \nreasonable belief in age (aged 18+)  \ncontrary to community standards of acceptable conduct  \nnot married to the complainant",
+    "Crimes Act 1958 s 49W  \nsimilarity in age defence  \nsexual activity in presence of a child under 16  \npersistent sexual abuse of a child under 16  \nreasonable belief in age 12 years or more evidence burden",
+    "sexual penetration of a child aged between 10 and 16  \ncarnal knowledge of a girl aged between 10 and 16  \ncomplainant not married to accused  \nintentional sexual penetration  \nvictim age 10 to 16"
+  ],
+  "cluster_19": [
+    "Burglary  \nCrimes Act 1958 s 76  \nTrespasser (no right or authority)  \nIntent to commit a prescribed offence  \nAggravated burglary",
+    "Home invasion  \nCrimes Act 1958 s 77A  \nArmed with firearm/imitation firearm/offensive weapon/explosive  \nIntention to steal or commit imprisonable offence  \nIn company with one or more other persons",
+    "Home invasion (person present)  \nAggravated home invasion (Crimes Act 1958 s 77B)  \nKnowledge or recklessness of another person present  \nArmed with firearm/imitation firearm/offensive weapon/explosive/imitation explosive  \nCommon purpose / agreement to commit home invasion",
+    "Aggravated carjacking  \nTheft of a vehicle  \nAppropriate property belonging to another  \nIntend to permanently deprive the owner  \nUse of force / put in fear then and there"
+  ],
+  "cluster_14": [
+    "family violence  \nFamily Violence Protection Act 2008  \nduty to act  \ncriminal negligence  \ncompelled rape",
+    "sexual assault\nintentional touching\nno consent\nreasonable belief in consent\ncompelled sexual assault",
+    "compulsion defence  \nCrimes (Sexual Offences) Act 2006  \nCrimes Act 1958 s 44(6A)  \nincest  \nbeyond reasonable doubt",
+    "indecent act with a child aged 16 or 17  \nCrimes Act 1958 s 49G  \nsexual activity in the presence of a child under 16  \ncommunity standards of acceptable conduct  \npersistent sexual abuse of a child under the age of 16",
+    "duress (family violence context)  \npolice officer \u201con duty\u201d  \nresisting arrest/obstructing emergency worker  \nlawful excuse  \nreasonable response to perceived threat",
+    "duress and family violence  \nCrimes Act 1958 s 9AH  \nJury Directions Act 2015 Part 6  \nfamily member definition s 9AH(4)  \nbattered woman syndrome"
+  ],
+  "cluster_6": [
+    "- accused\u2019s state of mind  \n- foresight of offence (possibility)  \n- recklessness (substantial risk)  \n- really serious injury  \n- culpable driving causing death",
+    "gross negligence (high risk)  \nstandard of care (reasonable person)  \nblood alcohol concentration (statutory limit)  \nincapable of proper control (alcohol/drugs)  \nintervening acts (causation)",
+    "- dangerous driving causing death  \n- dangerous driving causing serious injury  \n- serious breach of proper management or control  \n- real risk to members of the public  \n- substantial or significant cause",
+    "- serious injury (endangers life or substantial and protracted)  \n- lawful justification or excuse  \n- cumulative effect of multiple injuries  \n- destruction of a foetus (other than in the course of a medical procedure)  \n- intention to cause serious injury",
+    "- intentionally causing injury  \n- injury (physical injury or harm to mental health)  \n- intended to injure  \n- causation (accused caused the injury)  \n- lawful justification or excuse",
+    "- Crimes Act 1958 s 15 \u201cinjury\u201d (physical injury or harm to mental health)  \n- Crimes Act 1958 s 422 \u201crecklessly causing serious injury in circumstances of gross violence\u201d  \n- Inferring states of mind from probability  \n- Recklessly causing serious injury (4 elements: serious injury, causation, awareness, no lawful excuse)  \n- Recklessly causing injury as statutory alternative (Crimes Act 1958 s 18)",
+    "- criminal negligence (greatly short of standard of care)  \n- high degree of negligence (great departure)  \n- substantial or significant cause (causation)  \n- appreciable risk of serious injury (probable consequence)  \n- objectively test vs accused\u2019s actual knowledge"
+  ],
+  "cluster_18": [
+    "onus of proof  \nstandard of proof beyond reasonable doubt  \npresumption of innocence  \ndefence burden of disproving defences  \nincriminating conduct (lies)",
+    "silence in response to allegations  \nadmission by silence  \ntendency evidence (pattern of behaviour)  \nsupporting evidence (independent source)  \nprison informer confessions",
+    "false representation (implied representation)  \nknown to be false or probably false  \nintention that false representation be acted upon  \nlegal right (dishonesty: no belief of legal entitlement)  \nfalse document (purports to be something it is not)",
+    "false document (copy)  \nintention to deceive as genuine  \nintention to cause prejudice  \nstatutory perjury (false statement knowingly)  \ncommon law perjury (materiality)",
+    "Crimes Act 1958 (Vic) s 458 powers of arrest without warrant  \nCrimes Act 1958 (Vic) s 459 police-specific arrest power  \nReasonable grounds vs belief (George v Rockett)  \nCommunication requirements for a lawful arrest (inform arrest and reasons)  \nProportionate use of force (Crimes Act 1958 s 462A)",
+    "people smuggling (Migration Act 1958 s 233A)  \naggravated people smuggling (Migration Act 1958 s 233C)  \nnon-citizen without lawful right of entry  \nrecklessness about lack of lawful right of entry  \nfacilitated entry to Australia"
+  ],
+  "cluster_12": [
+    "Jury directions  \nTrial procedure  \nApplication of law to evidence  \nProsecution obligations  \nPre-trial publicity"
+  ],
+  "cluster_17": [
+    "joint criminal enterprise\nextended common purpose\ncounselling and procuring\naiding and abetting\nwithdrawal from an agreement",
+    "['recklessness about the commission of the charged offence', 'agreement to commit an offence', 'innocent agent', 'conspiracy to commit an offence', 'intention to enter into an agreement']",
+    "driving a motor vehicle\ncontrol of vehicle movement and direction\nbeyond reasonable doubt\ncare, supervision or authority\nreasonable belief (no care, supervision or authority)",
+    "knowledge of accused (state of mind)  \nsexual penetration  \nsexual touching  \nlawful justification and excuse  \nCrimes Act 1958 s 49ZA",
+    "- making a threat to kill  \n- intend NOC to fear the threat carried out  \n- knew NOC would probably fear it  \n- lawful justification or excuse (no lawful justification)  \n- false representation (obtaining property by deception)",
+    "intention to conceal proceeds of crime  \ndishonesty (criminal damage with a view to gain)  \nknowingly dealing with proceeds of crime  \nperverting the course of justice  \nintentionally penetrated the vagina (rape)",
+    "NOA guilty of this charge  \neach question  \nbeyond reasonable doubt  \ncommission of the charged offence"
+  ],
+  "cluster_2": [
+    "jury empanelment, jury instructions, impartial juror, independent research, evidence-based verdict",
+    "jury deliberations in jury room  \npresumption of innocence  \nreasonable doubt standard  \nseparate consideration of accused and charges  \ncommunicating about the case socially",
+    "evidence definition  \nwitness testimony  \ncourt exhibits  \njuror duty to decide solely on evidence  \nno outside information",
+    "tape recording evidence  \ntranscript of tape recording  \nVARE procedure  \nspecial hearing pre-recorded evidence  \nunavailable witness hearsay",
+    "Jury Directions Act 2015  \nrequest for directions process  \nvoir dire  \nprotected witness directions  \ncircumstantial evidence inference",
+    "alternative verdicts  \nquestion trails (factual question directions)  \nintegrated directions  \nelement checklist  \nunanimous verdicts (extended jury unanimity)",
+    "mens rea  \nalternative bases of liability  \nprincipal vs accessory liability  \nmajority verdict direction  \nperseverance direction",
+    "Jury Directions Act 2015 s 44H  \nJury Directions Act 2015 s 44L  \nmotive to lie direction  \nacquitted giving evidence direction (s 44I)  \nadmission (Evidence Act 2008)",
+    "Jury Directions Act 2015 s 61  \nincriminating conduct (post-offence lies and conduct)  \nsection 21 direction (implied admission)  \nsection 22 direction (danger of incriminating conduct misuse)  \nsection 23 direction (risk of improper use)",
+    "Forensic disadvantage direction  \nJury Directions Act 2015, Part 4 Division 5  \nSignificant forensic disadvantage  \nHonest but erroneous memory (s 32 warning)  \nSection 43 direction (failure to call or question witness)",
+    "Browne v Dunn rule  \nJones v Dunkel direction  \nWeissensteiner direction  \nOGD direction (failure to provide an explanation)  \nJury Directions Act 2015 s 42",
+    "Browne v Dunn rule of professional practice  \nEvidence Act 2008 s 89 adverse inferences prohibited  \nJury Directions Act 2015 s 32 unreliability warning  \nEvidence Act 2008 s 66 maker available  \ndisplacement effect in identification evidence",
+    "pre-trial silence admissibility  \nright of silence direction to jury  \nJury Directions Act 2015 s 89(3)  \nEvidence Act 2008 ss 135\u2013137 exclusion  \nincriminating conduct implied admission by silence",
+    "Jury Directions Act 2015 s 47C  \nconsent and reasonable belief in consent directions  \nunreliability warning (Jury Directions Act 2015 s 32)  \nEvidence Act 2008 s 136 limitation of evidence use  \nalibi directions (Criminal Procedure Act 2009 leave)",
+    "Jury Directions Act 2015 s 52 delay in complaint credit  \nreasonable belief in consent community expectations (s 47(3)(d))  \nJury Directions Act 2015 s 47(3)(e) accused\u2019s attributes, characteristics and circumstances  \nJury Directions Act 2015 s 54D differences in a complainant\u2019s account  \nJury Directions Act 2015 s 54K distress while giving evidence",
+    "fitness to stand trial  \nbalance of probabilities  \nreal and substantial question  \nspecial hearing  \nCrimes (Mental Impairment and Unfitness to be Tried) Act 1997 (Vic)",
+    "separate consideration of each charge  \nquestion trails for alternative charges  \nignore outside information (media)  \nrole of judge in explaining law  \nunanimous verdict (special unanimity)"
+  ],
+  "cluster_16": [
+    "proviso vs exception  \nonus of proof  \nresidual obligation (Jury Directions Act 2015 s 16)  \nsubstantial and compelling reasons  \nincriminating conduct (pretext conversation)",
+    "statutory complicity (agreement, arrangement or understanding)  \njoint criminal enterprise  \nintentionally assisted, encouraged or directed  \nagreement scope and mental state  \nwithdrawal from an agreement (timely and effective)",
+    "extended common purpose  \ncounselling or procuring  \naiding or abetting by conveying assent  \nforeseeability of the charged offence (possible outcome)  \nCrimes Amendment (Abolition of Defensive Homicide) Act 2014",
+    "assisting an offender (Crimes Act 1958 s 325)  \npositive act after completion of principal offence  \npurpose of impeding apprehension, prosecution, conviction or punishment  \nlawful authority or reasonable excuse  \ncommonwealth complicity (Criminal Code s 11.2(1))",
+    "Criminal Code (Cth) s 11.2A  \nrecklessness about commission of different offence  \noffence \u201csame type\u201d as agreed offence  \ntimely termination / withdrawal from agreement  \nreasonable steps to prevent offence being committed",
+    "agreement to commit a criminal offence  \nintention to conspire  \nknowledge of essential facts  \novert act pursuant to the agreement  \nsingle conspiracy vs multiple conspiracies",
+    "conspiracy to commit an offence (inchoate liability)  \novert act to advance the agreement  \nintended to conspire (intention to agree)  \nincitement (Victoria)  \ninciting conduct (commanding, requesting, encouraging, authorising)",
+    "course of conduct charge  \nrepresentative charge  \nmultiple incidents count  \nunanimity about course of conduct  \ncourse of conduct stalking continuity of purpose",
+    "persistent sexual abuse of a child under 16  \nspecificity of \u201coccasions\u201d  \nextended unanimity requirement  \nHamra v R  \nDirector\u2019s consent (DPP)",
+    "false imprisonment  \ndeprivation of liberty  \nunlawful without lawful excuse  \ncourse of conduct (stalking)  \ncontinuity of purpose",
+    "perverting the course of justice  \nattempting to pervert the course of justice  \ncourse of justice (commencement)  \ntendency to pervert / real possibility  \nintention to pervert (purpose to result)",
+    "duress (Crimes Act 1958 s 322O)  \nCrimes (Homicide) Act 2005 (s 9AG)  \ncommon law duress (pre-1/11/2014)  \nprosecution burden: negate duress beyond reasonable doubt  \ntendency to pervert / real risk of interference",
+    "Ghani v Jones [1970] 1 QB 693  \nSiddique v Martin (2016) 51 VR 564  \nMcElroy & Wallace v The Queen (2018) 55 VR 450  \nMcElroy v Wallace seizure presumed unlawful (no warrant/arrest connected to evidentiary purpose)  \nCriminal Code (Cth) s 474.22(1)(aa) \u201ccarriage service\u201d"
+  ],
+  "cluster_7": [
+    "Silence as implied admission  \nIncriminating conduct (failure to inform)  \nReckless murder vs manslaughter  \nDangerous act (objective appreciable risk of serious injury)  \nGross violence (serious injury circumstances)",
+    "Threat to kill (Crimes Act 1958 s 20)  \nRecklessness (probable/likely fear)  \nWithout lawful justification or excuse  \nAssault involving the application of force  \nStalking (Crimes Act 1958 s 21A)",
+    "unauthorised computer function (Crimes Act 1958 s 247A)  \npublishing on the Internet / electronic communications  \ncourse of conduct (stalking s 21A)  \nmental harm incl psychological harm and suicidal thoughts  \nbalance of probabilities (lack of malice defence)",
+    "Conduct endangering persons (pre-1/7/13)  \nVoluntary conduct  \nAppreciable risk of serious injury  \nExtortion with a threat to kill (Crimes Act 1958 s 27)  \nCommon law riot",
+    "Blackmail (Crimes Act 1958 s 87)  \nDemand (explicit or implicit)  \nMenaces / threats (negative or unpleasant action)  \nUnwarranted demand  \nIntended unwarranted demand with menaces",
+    "Criminal damage (Crimes Act 1958 s 197(1))  \nIntent to destroy or damage property (s 197(4))  \nCriminal damage intending to endanger life (s 197(2))  \nArson by fire (s 197(6))  \nIntentionally or recklessly causing a bushfire (s 201A)",
+    "Family violence evidence  \nSelf-defence (common law)  \nPlainly disproportionate force  \nPre-emptive strike  \nDuress (reasonably believes)",
+    "Duress (safe escape: reasonable safety)  \nDuress (threat present and continuing)  \nImplied threat from conduct and character  \nProvocation (triggering event; loss of self-control)  \nDelayed response to provocation",
+    "Murder vs manslaughter  \nBurden of proof (prosecution cannot prove beyond reasonable doubt)  \nConviction for manslaughter when murder not proven"
+  ],
+  "cluster_4": [
+    "attempted rape (Victoria)  \nconsent (free agreement)  \nreasonable belief in consent  \naccused state of mind (awareness/no thought)  \nfault element (beyond reasonable doubt)",
+    "Crimes Act 1958 s 37AA (awareness of consent)  \nJury Directions Act 2015 s 11-12 (parties\u2019 identified issues; requested directions)  \nnon-advertence (failure to think about consent)  \ninvoluntary intoxication effects (befuddled mind; mistaken belief)  \ncompelled rape (sexual penetration caused by accused)",
+    "consent (free agreement)  \ncompelled rape (sexual penetration caused by accused)  \nlack of consent (no freely agreeing)  \naccused awareness of non-consent  \ndeemed non-consent circumstances",
+    "assault with intent to commit a sexual offence (elements beyond reasonable doubt)  \nsexual assault (intentional sexual touching; lack of consent; reasonable belief)  \nassault with intent to rape (intention to sexually penetrate; result)  \nCrimes Act 1958 s 36 (free agreement; deemed non-consent)  \naccused\u2019s reasonable belief in consent (objectivity; reasonable steps)",
+    "indecent assault elements (touching; indecent circumstances; no consent; awareness)  \nmens rea implied for consent (He Kaw Teh; Parish v DPP)  \nlack of consent deemed by circumstances (force, fear, detention, unconsciousness)  \nwithdrawal of consent before or during act  \nknowledge of absence of consent (knew or probably knew; probably not consenting)",
+    "sexual penetration of a child under 16  \nbalance of probabilities (accused burden)  \ncircumstances of aggravation  \ncomplainant age thresholds (under 12 / between 12 and 16 / under 10)  \nawareness of non-consent as a matter of prudence",
+    "mens rea for consent  \nawareness of lack of consent (beyond reasonable doubt)  \ndeemed consent circumstances (force, fear, detention, unconsciousness)  \nfalse imprisonment elements (deprivation of liberty; unlawful)  \nreasonable means of escape (unlawful imprisonment)"
+  ],
+  "cluster_10": [
+    "conspiracy intent  \nrecklessness insufficient  \nintended principal offence  \ndrug trafficking specified drug  \nsubjective intention proven beyond reasonable doubt",
+    "traffickable quantity prima facie evidence trafficking  \npossession at common law s 73(2)  \ndifferent drugs cannot be aggregated  \nGiretti business of trafficking (carried on a business)  \nauthorisation or licensing exception qualification defence onus",
+    "- trafficking by possession for sale (large commercial quantity)  \n- drug of dependence  \n- intended to sell for possession for sale  \n- commercial quantity / large commercial quantity thresholds  \n- cultivation of narcotic plants (s 72, 72A, 72B)",
+    "cultivation of narcotic plants (s 72C defence)  \nbalance of probabilities lack of knowledge  \nintentionally cultivated a plant  \nnarcotic plant element  \ncommercial or large commercial quantity intention",
+    "controlled drug definition  \nDivision 302 trafficking offences  \nCriminal Code s 302.2 302.3 302.4  \npossession custody or control intention  \nrecklessness as to controlled drug",
+    "alternative verdicts  \nmistake as to quantity (s 313.4)  \nmistake as to identity (s 313.5)  \ntrafficking marketable or commercial quantities (s 302.2, s 302.3, s 302.4)  \nimporting/exporting border controlled drugs and plants (Division 307)",
+    "border controlled substance recklessness elements  \nimportation (bringing into Australia or dealing in connection)  \ncommercial or marketable quantity aggregation s 311.1 s 311.13  \npure quantity in mixtures s 312.1 s 312.2 requisite fractions  \nlack of commercial intent defence (s 307.2(4) s 307.4)",
+    "lack of commercial intent defence  \nbalance of probabilities standard of proof  \nimporting border controlled drug elements  \nrecklessness about the nature of the substance  \nalternative verdict importing without commercial intent"
+  ],
+  "cluster_9": [
+    "beyond reasonable doubt  \nonus on the prosecution  \nJury Directions Act 2015  \ncircumstantial evidence (only reasonable inference)  \nreasonable hypothesis consistent with innocence",
+    "dangerousness (objective test)  \nappreciable risk of serious injury  \nreasonable person in the position of the accused  \nself-induced intoxication  \nreasonable belief (mixed objective-subjective)",
+    "self-defence burden of proof  \nreasonable grounds for belief  \nsubjective test (accused\u2019s belief)  \ndefensive homicide  \nmental impairment balance of probabilities",
+    "mental impairment (second requirement)  \nknowledge wrong (reasonable people test)  \nnature and quality of acts  \nintoxication (s 322T)  \nreasonable sober person standard",
+    "self-induced intoxication (Dutch courage)  \nvoluntariness and mens rea  \nintoxication inferences  \nsane automatism vs insane automatism  \ndisease of the mind",
+    "insane automatism  \nautomatism voluntariness (willed act)  \ndisease of the mind (epilepsy/jury question)  \nevidential foundation for automatism  \nonus of proof (mental impairment defence)",
+    "objective test for duress  \nordinary firmness of mind and will  \nprovocation loss of self-control  \ncould/might standard (provocation)  \nonus of proof (prosecution)"
+  ],
+  "cluster_8": [
+    "murder trial jury directions  \nviable manslaughter case  \nmerciful verdict manslaughter  \nvoluntariness requirement  \nevidentiary presumption of voluntariness",
+    "murder: conscious voluntary deliberate intent to kill or cause really serious injury\ninvoluntary conduct (accident reflex physically compelled automatic state)\nstatutory murder (Crimes Act 1958 s 3A) serious crime of violence act of violence conscious voluntary deliberate\nsubstantial or significant cause of death / common-sense causation\nmanslaughter by unlawful and dangerous act: unlawful act dangerous act caused death",
+    "criminal negligence  \nduty of care  \nsubstantial or significant cause  \nserious injury (endangers life or substantial and protracted)  \nconsciously, voluntarily and deliberately",
+    "self-defence (Crimes Act 1958 s 322K)  \nbelief in necessity of defensive force  \nreasonable response in the circumstances perceived  \nreasonable grounds / subjective belief test (murder/defensive homicide)  \ncriminal negligence manslaughter (criminally negligent act)",
+    "manslaughter self-defence (Crimes Act 1958 s 9AE)  \nunlawful and dangerous act manslaughter self-defence  \ndangerous act appreciable risk of serious injury  \nreasonable grounds for belief necessity to act  \nsubjective vs objective elements of self-defence (Zecevic test)",
+    "suicide pact (Crimes Act 1958 s 6B(4))  \ndefence reverse onus (balance of probabilities)  \nsuicide-related offences (Crimes Act 1958 s 6B(2))  \nsettled intention to die pursuant to the agreement  \nliability of third parties (not a party to the suicide pact)"
+  ],
+  "cluster_13": [
+    "Production of Child Abuse Material  \nCrimes Act 1958 s 51C  \nChild abuse material  \nIntentional production  \nKnowledge of child abuse material",
+    "- Production of Child Pornography  \n- Possession of Child Pornography  \n- Offence elements (beyond reasonable doubt)  \n- Office of Film and Literature Classification (OFLC)  \n- Knowingly possessed (custody or control)",
+    "- Possession (physical custody/control)  \n- Intended to exercise control (mens rea)  \n- Knowledge of sexual nature and under-18 age  \n- \u201cIndecent\u201d sexual manner/context  \n- Recklessness as to child abuse material"
+  ],
+  "cluster_5": [
+    "sexual penetration\nexternal genitalia (outer lips of the vagina)\nmedical or hygienic purposes\nconscious, voluntary and deliberate\nintention to sexually penetrate",
+    "indecent circumstances involving sexual connotation\nintentional touching (any slight touch)\ndeliberately not accidentally\nintention that complainant takes part in sexual act\nact of sexual penetration definition (penis, body part, object into vagina/anus, mouth)",
+    "good faith for medical or hygienic purposes  \nactual penetration (not mere touching)  \nintroduced object/body part other than penis into vagina/anus  \ntouching contrary to community standards of acceptable conduct  \nchild under 16 / 16 or 17 years",
+    "presence of complainant (real-time electronic communication)  \nwilfully committed the alleged indecent act  \nsexual activity (body area or seek/get sexual arousal)  \nwithout lawful justification or excuse  \nlawful justification or excuse",
+    "theft of the vehicle  \nuse of force / fear of force  \npurpose to steal (in order to steal)  \nacted in order to commit theft  \nintention to deal with the property"
+  ],
+  "cluster_11": [
+    "Last updated\nJuly 2018\nOctober 2017\nFebruary 2020\nOctober 2024"
+  ]
+}

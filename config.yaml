@@ -1,0 +1,20 @@
+embedding_model: "sentence-transformers/all-MiniLM-L6-v2"
+llm_model: "gpt-5.4"
+judge_model: "gpt-5.4-nano"
+
+clustering:
+  method: "hierarchical"
+  threshold: 5.5
+  criterion: "distance"
+
+retrieval:
+  k: 40
+
+evaluation:
+  metrics:
+    - faithfulness
+    - answer_relevance
+    - completeness
+    - conciseness
+    - semantic_similarity
+    - overall
