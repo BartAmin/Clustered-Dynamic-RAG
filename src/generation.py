@@ -34,8 +34,8 @@ def judge_answers(question: str, ground_truth: str,
                   result_cdrag: str, result_simple: str,
                   config: dict, client) -> tuple[dict, dict]:
     """
-    LLM judge evaluates both answers against the ground truth.
-    Returns scores for CDRAG and simple RAG.
+    LLM judge evaluates both answers against the ground truth. Returns scores for CDRAG 
+    and simple RAG [CDRAG = system A, simple RAG = system B] (so to avoid bias in judgement)
     """
 
     judge_system_prompt = """
