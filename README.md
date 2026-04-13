@@ -226,9 +226,9 @@ Results are written to `results/results.csv`.
 
 ## Similar work
 
-Sarthi et al. (2024) propose a Retrieval-Augmented Generation variant called CRAG (Clustered Retrieval-Augmented Generation). While related in spirit, it differs from the architecture used in this project. In CRAG, clustering is applied after the retrieval step, clustering the retrieved documents based on semantic similarity. An LLM then summarizes each cluster, and a final aggregate summary is used as the context for generation. 
+Akesson, S., & Santos, F. A. (2024) propose CRAG (Clustered Retrieval-Augmented Generation). While related in spirit, it differs from the architecture used in this project. In CRAG, clustering is applied after the retrieval step, grouping the retrieved documents by semantic similarity. An LLM then summarises each cluster, and a final aggregate summary is used as the context for generation.
 
-> Sarthi, P., Abdullah, R., Tuli, A., Khanna, S., Goldie, A., & Manning, C. D. (2024). *RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval*. arXiv:2406.00029. Retrieved from https://arxiv.org/abs/2406.00029
+> Akesson, S., & Santos, F. A. (2024). *Clustered Retrieval-Augmented Generation (CRAG)*. arXiv:2406.00029. Retrieved from https://arxiv.org/abs/2406.00029
 
 A related approach is described in this blogpost, where the corpus is first clustered and an LLM generates a summary for each cluster. These summaries are then embedded, and cosine similarity is used to match the query to the most relevant cluster, from which documents are sampled again using Top-K.
 

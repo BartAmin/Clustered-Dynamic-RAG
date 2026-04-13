@@ -92,5 +92,6 @@ def clustered_dynamic_retrieval(question: str, query_embedding: np.ndarray,
         top_k_ids          = cluster_selection['id'].values[top_k_indices]
         included_ids.extend(top_k_ids)
 
+    # Retrieve and concatenate all documents that are in included ID's
     context = " ".join(mapping.loc[mapping['id'].isin(included_ids), 'text'])
     return context

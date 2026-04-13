@@ -29,9 +29,10 @@ with open("results/cluster_keywords.json", "r") as f:
     cluster_keywords = json.load(f)
 
 # ── Precompute ────────────────────────────────────────────────────────────
+# calculate cluster size so the sub_k does not exceed total number of docs in cluster
 cluster_size   = mapping.groupby('cluster').size()
-all_embeddings = np.vstack(mapping['embedding'].values)
-all_ids        = mapping['id'].values
+all_embeddings = np.vstack(mapping['embedding'].values) # document embeddings
+all_ids        = mapping['id'].values # document ID's
 
 # ── Load embedding model for query encoding ───────────────────────────────
 embed_model = SentenceTransformer(config['embedding_model'])
